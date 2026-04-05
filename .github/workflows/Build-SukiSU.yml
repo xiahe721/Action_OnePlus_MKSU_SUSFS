@@ -36,6 +36,8 @@ on:
           - oneplus_ace3_v
           - oneplus_open_v
           - oneplus_12_v
+          - oneplus_12_u
+          - oneplus_12_b
           - oneplus_13r
           - oneplus_ace3_pro_v
           - oneplus_ace5
